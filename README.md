@@ -1,2 +1,2 @@
-# Potato-disease-classificatrion
+# Potato-disease-classification
 Project -potato disease classifier
